@@ -32,6 +32,3 @@ while replay_input == "yes":
     while replay_input not in ["yes", "no"]:
         replay_input = input("I didn't get that. Please type 'yes' or 'no': ").lower()
 print("Thanks for playing! See you next time.")
-
-        
-    
